@@ -1,0 +1,5 @@
+Eszközök: 
+	-ESP32 Devkitc-WROOM-32D CP2102
+	-GY-BMP280 nyomás és hőmérséklet szenzor
+	-Próbapanel/breadboard
+	-1,2" színes TFT LCD kijelző, kerek, 240x240 SPI
